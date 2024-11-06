@@ -52,3 +52,17 @@ h1{
     width: 50%;
     background-color: blue;
  }
+
+ button{
+    margin: 40px;
+    font-size: 20px;
+    padding: 10px 20px;
+    color: white;
+    background-color: lightblue;
+    border: 2px solid red;
+    border-radius: 5px;
+ }
+
+ button:hover{
+    background-color: red;
+ }
