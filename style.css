@@ -106,4 +106,14 @@ h1{
    top: 50%;
    left: 50%;
    transform: translate(-50%,-50%);
+   font-size: 60px;
+   font-weight: 100;
 } 
+h1 span{
+   background-color: rebeccapurple;
+   color: aliceblue;
+   font-size: 100px;
+   font-weight: 600;
+   padding: 15px 30px;
+   border-radius: 10px;
+}
