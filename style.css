@@ -8,6 +8,9 @@ html,body{
     height: 100%;
     width: 100%;
 }
+body{
+    background-color: #111;
+}
 
 /* h1{
     color: royalblue;
@@ -22,16 +25,16 @@ html,body{
     width: 300px;
     background-color: brown;
 } */
-h1{
+/* h1{
     color: white;
-}
+} */
 /* #Akarsh{
     background-color: aqua;
 } */
- .a{
+ /* .a{
     background-color: red;
- }
-
+ } */
+/* 
  #box{
     height: 200px;
     width: 200px;
@@ -65,4 +68,28 @@ h1{
 
  button:hover{
     background-color: red;
+ } */
+
+ #box1{
+    height: 300px;
+    width: 300px;
+    background-color: green;
+    border: 2px solid white;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+ }
+ #box2{
+    height: 300px;
+    width: 300px;
+    background-color: red;
+    border: 2px solid white;
+ }
+ #box3{
+    height: 300px;
+    width: 300px;
+    background-color: blue;
+    border: 2px solid white;
+
  }
