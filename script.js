@@ -1,3 +1,2 @@
-console.log("This Is Message");
-console.warn("This is Warning");
-console.error("ABX");
+var a; //Declaration
+a = 50; //Initialization
