@@ -1,4 +1,4 @@
-//Arithmetic Operations
+// Arithmetic Operations
 // var a = 10;
 // var b = 20;
 // console.log(a + b);
@@ -6,31 +6,31 @@
 // console.log(a * b);
 // console.log(a / b);
 
-//alert("Hello");
+// alert("Hello");
 // var ans = confirm("Are You");
 // console.log(ans);
 
 // var anss = prompt("Enter Your Name");
 // console.log("User Name is", anss);//String Concat
 
-//Alert---Message(Only)
-//Confirm ---Question
-//Prompt--Take Input
+// Alert---Message(Only)
+// Confirm ---Question
+// Prompt--Take Input
 
-//JS DataTypes
-//-- Permeative
-//---Number
-//---String
-//---Boolean
-//---Undefined
-//---Null
-//---Symbol
-//---Nan
+// JS DataTypes
+// -- Permeative
+// ---Number
+// ---String
+// ---Boolean
+// ---Undefined
+// ---Null
+// ---Symbol
+// ---Nan
 
-//-- Reference
-///--Array
-///--Objects
-///--Function
+// -- Reference
+// /--Array
+// /--Objects
+// /--Function
 
 // var a = 10;
 // var b = "Sirajul";
@@ -49,7 +49,7 @@
 //   console.log("Can't Vote");
 // }
 
-//Loops--Repetation
+// Loops--Repetation
 // var a = 20;
 // while (a > 0) {
 //   console.log("Hello");
@@ -89,24 +89,24 @@
 // var a = abc()
 // console.log(a)
 
-//First Class Function
+// First Class Function
 // var abc = function () {
 //   console.log("Hello");
 // };
 // abc();
 
-//Fat Arrow Function
+// Fat Arrow Function
 // var bde = () => {
 //   console.log("Hello Fat Arrow Function");
 // };
 // bde();
 
-//-----Let, Const
+// -----Let, Const
 // let a = 10; //
 // const b = 20; //
 // var c = 30;
 
-//Array
+// Array
 // var ar = [20, 30, 40];
 // console.log(ar);
 // var mixed = ["Sirajul", 20, 20.4, true];
@@ -117,7 +117,7 @@
 //   console.log("Hello", element);
 // });
 
-//--Objects
+// --Objects
 
 // var obj = {
 //   user: "Harsh",
@@ -125,12 +125,12 @@
 // };
 // console.log(obj.age);
 
-//Function inside object
+// Function inside object
 // var user = {
 //   userName: "Sarthak",
 // };
 
-//Array Of Object
+// Array Of Object
 // var arr = [
 //   {
 //     userName: "Sirajul",
@@ -146,29 +146,29 @@
 //   },
 // ];
 
-//DOM-Document Object Model
-//4 Pillers of DOM - Selection of an Element
-//--Changing HTML
-//--Changing CSS
-//--Event Listener
+// DOM-Document Object Model
+// 4 Pillers of DOM - Selection of an Element
+// --Changing HTML
+// --Changing CSS
+// --Event Listener
 
-//Selecion of an element
+// Selecion of an element
 
 // var a = document.querySelector("h1");
 // console.log(a);
 
-//Changing HTML
+// Changing HTML
 // var a = document.querySelector("h1");
 // a.innerHTML = "Changed";
 // console.log(a);
 
-//Changing CSS
+// Changing CSS
 // var a = document.querySelector("h1");
 // a.style.color = "white";
 // a.style.backgroundColor = "red";
 // console.log(a);
 
-//Event Listener
+// Event Listener
 // var a = document.querySelector("h1");
 // a.addEventListener("mouseenter", function () {
 //   a.innerHTML = "Changed";
